@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mind Sprint</string>
+    <string name="hero_banner_desc">Mind Sprint Brain Gym Hero Banner</string>
+    <string name="btn_play_sprint">Play Sprint</string>
+    <string name="btn_daily_challenge">Daily Challenge</string>
+    <string name="btn_exam_mode">Exam Mode</string>
+    <string name="btn_progress">Progress &amp; Shop</string>
+    <string name="btn_settings">Settings</string>
+    <string name="cat_mental_math">Mental Math</string>
+    <string name="cat_english_vocab">English Vocabulary</string>
+    <string name="cat_science">Science</string>
+    <string name="cat_logic_patterns">Logic Patterns</string>
+    <string name="cat_mixed">Mixed All-Stars</string>
+    <string name="ad_banner_placeholder">AdMob Banner Placeholder (320x50) • Home Only</string>
+    <string name="share_daily_title">Share Daily Challenge Result</string>
+</resources>

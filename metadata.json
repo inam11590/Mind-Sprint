@@ -1,0 +1,6 @@
+{
+  "name": "Mind Sprint",
+  "description": "Fast-paced offline portrait quiz game for students with infinite procedural questions in Mental Math, English Vocabulary, Science, and Logic Patterns, plus Daily Challenge, Exam Mode, themes, avatars, and progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
